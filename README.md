@@ -41,25 +41,25 @@ Mamy do dyspozycji:
     - Dąbrowa Górnicza Strzemieszyce (Wyjazd)<br />
     Po połączeniu z uszkodzonym składem na stacji Dąbrowa Górnicza Strzemieszyce. Jazda w 3xEN57 do Katowic jako osobowy 24901.
 - Opis:<br />
-Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią DZB. Udajemy się pod skład 2xEN57, który widzimy na wprost i **rozłączamy jednostki**. Następnie urucamiamy tylko pierwszy EZT w kierunku Łaz i zgłaszamy się na radiu (kanał 2). Wykonujemy manewry o które prosi nas dyżurny. Po udanych manewrach ruszamy jako pociąg 115232 do Strzemieszyc celem wsparcia uszkodzonego pociągu osobowego. Po dotarciu do Strzemieszyc wykonujemy manewry pod skład 2xEN57 i łączymy go w 3xEN57. Po połączeniu jedziemy jako osobowy 24901 do Katowic zatrzymując się na każdym przystanku.
+Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią DZB. Udajemy się pod skład 2xEN57, który widzimy na wprost i **rozłączamy jednostki**. Następnie uruchamiamy tylko pierwszy EZT w kierunku Łaz i zgłaszamy się na radiu (kanał 2). Wykonujemy manewry o które prosi nas dyżurny. Po udanych manewrach ruszamy jako pociąg 115232 do Strzemieszyc celem wsparcia uszkodzonego pociągu osobowego. Po dotarciu do Strzemieszyc wykonujemy manewry pod skład 2xEN57 i łączymy go w 3xEN57. Po połączeniu jedziemy jako osobowy 24901 do Katowic zatrzymując się na każdym przystanku.
 - Łączenie w skład 3xEN57:<br />
    - Dojeżdżamy i dobijamy sprzęgi
    - Wyłączamy kabinę
    - Podchodzimy do sprzęgu -> prawym -> Połącz wszystko
    - Wchodzimy do kabiny składu II (środkowy) zaraz przy sprzęgu
    - Zwalniamy hamulec ręczny
-   - Przechodzimy po składzie na koniec tego EZT po drodze włączamy baterie i odblokowujemy przekźnij róznicowy
+   - Przechodzimy po składzie na koniec tego EZT po drodze włączamy baterie i odblokowujemy przekaźnik różnicowy
    - Wychodzimy tylnym wyjściem ze składu
    - Wchodzimy do kabiny składu III (ostatni)
    - Zwalniamy hamulec ręczny
-   - Przechodzimy po składzie na koniec tego EZT po drodze włączamy baterie i odblokowujemy przekźnij róznicowy
+   - Przechodzimy po składzie na koniec tego EZT po drodze włączamy baterie i odblokowujemy przekaźnik różnicowy
    - Wchodzimy do kabiny (koniec pociągu) i zapalamy czerwone światła
    - Wychodzimy ze składu i sprawdzamy czy świecą czerwone lampki
    - Przechodzimy po peronie na sam początek składu (od strony Kazimierza)
    - Uruchamiamy kabinę
    - Wywołujemy dyżurnego
    - Cofamy za semafor V
-   - **UWAGA:<br />jeżeli nie będzie można cofnać (skład odhamowany, ale nie jedzie) wówczas podchodzimy do sprzegu między I a II (tym co sami go łączyliśmy) i klikamy prawym "Rozłącz przewody sterujące" następnie znów "Połącz przewody sterujące" i wracamy do kabiny**
+   - **UWAGA:<br />jeżeli nie będzie można cofnąć (skład odhamowany, ale nie jedzie) wówczas podchodzimy do sprzęgu między I a II (tym co sami go łączyliśmy) i klikamy prawym "Rozłącz przewody sterujące" następnie znów "Połącz przewody sterujące" i wracamy do kabiny**
 
 ## Misja 2 - Łazy Cargo
 - Tabor: ET22 / EU07 / Dragon / Traxx
@@ -70,7 +70,7 @@ Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią D
     - Łazy (Manewry)<br />
     Skład dostarczyliśmy już do Łaz i rozpoczynamy manewry zgodnie z instrukcjami dyżurnego.
     - Łazy (Wyjazd)<br />
-    Jesteśmy już po manewrach i rozpoczynamy służbowy kurs luzakiem do Bukowna przez Przemiarki i Dąbrowę Gówniczą Wschodnią (zmiana kabiny). W Bukownie wykonujemy manewry pod uszkodzony skład.
+    Jesteśmy już po manewrach i rozpoczynamy służbowy kurs luzakiem do Bukowna przez Przemiarki i Dąbrowę Górniczą Wschodnią (zmiana kabiny). W Bukownie wykonujemy manewry pod uszkodzony skład.
     - Bukowno (Wyjazd)<br />
     Mamy już połączony skład i ruszamy do Łaz z beczkami.
     - D.G. Strzemieszyce (Wyjazd)<br />
@@ -78,4 +78,4 @@ Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią D
     - Sosnowiec Pł. (Wyjazd)<br />
     Kontynuujemy jazdę składem z beczkami
 - Opis:<br />
-Rozpoczynamy na peronie stacji Sosnowiec Główny - tuż po wyjściu z pociągu osobowego. Udajemy się pod semafor wyjazdowy H5 (w kierunku Będzina) - tam za chwilę podjedzie towarowy, który przejmiemy. Prowadzimy pociąg kontenerowy z dodatkowymi 2xEU07 na przodzie do odstawienia w Łazach. Po dotarciu do Łaz wykonuemy liczne manewry przez ŁB i ŁA celem odstawienia lokomotyw w odpowiednie miejsce. Po ich zakończeniu udajemy się luzakiem do Bukowna po uszkodzony skład towarowy. Trasa jest poprowadzona przez Przemiarki i Dąbrowę Gówniczą Wschodnią, gdzie zmieniamy kabinę. Po dotarciu do Bukowna wykonujemy manewry i łączymy się ze składem beczek. Prowadzimy pociąg towarowy z Bukowna do Łaz.
+Rozpoczynamy na peronie stacji Sosnowiec Główny - tuż po wyjściu z pociągu osobowego. Udajemy się pod semafor wyjazdowy H5 (w kierunku Będzina) - tam za chwilę podjedzie towarowy, który przejmiemy. Prowadzimy pociąg kontenerowy z dodatkowymi 2xEU07 na przodzie do odstawienia w Łazach. Po dotarciu do Łaz wykonujemy liczne manewry przez ŁB i ŁA celem odstawienia lokomotyw w odpowiednie miejsce. Po ich zakończeniu udajemy się luzakiem do Bukowna po uszkodzony skład towarowy. Trasa jest poprowadzona przez Przemiarki i Dąbrowę Górniczą Wschodnią, gdzie zmieniamy kabinę. Po dotarciu do Bukowna wykonujemy manewry i łączymy się ze składem beczek. Prowadzimy pociąg towarowy z Bukowna do Łaz.
