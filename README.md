@@ -12,6 +12,9 @@ Należy pobrać spakowany folder o nazwie **44_patwrobel.7z** i wypakować go do
 ## Etap startowy scenariusza
 Każda misja została podzielona na etapy, aby była możliwość grania fragmentami - dokończenia gry od pewnego miejsca. Po każdym uruchomieniu scenariusza użytkownik zostanie poproszony o wybór etapu - są one ułożone po kolei. Możemy zacząć grę od dowolnego etapu i grać do końca.
 
+## Symulacja
+Scenariusze zawierają liczny ruch AI oraz zdarzenia losowe (w tym wygaszenia semaforów, uszkodzenia przejazdów, sygnały zastęcze, jazda lewym torem, itp.)
+
 ## Pogoda i pora dnia
 Każdorazowo gra prosi na starcie o określenie pogody (pora roku) oraz pory dnia.
 Mamy do dyspozycji:
