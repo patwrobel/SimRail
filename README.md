@@ -63,6 +63,9 @@ Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią D
    - Wywołujemy dyżurnego
    - Cofamy za semafor V
    - **UWAGA:<br />jeżeli nie będzie można cofnąć (skład odhamowany, ale nie jedzie) wówczas podchodzimy do sprzęgu między I a II (tym co sami go łączyliśmy) i klikamy prawym "Rozłącz przewody sterujące" następnie znów "Połącz przewody sterujące" i wracamy do kabiny**
+   ![Photo1](Photos/Misja%201/Photo1.jpg)
+   ![Photo3](Photos/Misja%201/Photo3.jpg)
+   ![Photo4](Photos/Misja%201/Photo4.jpg)
 
 ## Misja 2 - Łazy Cargo
 - Tabor: ET22 / EU07 / Dragon / Traxx
@@ -82,3 +85,8 @@ Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią D
     Kontynuujemy jazdę składem z beczkami
 - Opis:<br />
 Rozpoczynamy na peronie stacji Sosnowiec Główny - tuż po wyjściu z pociągu osobowego. Udajemy się pod semafor wyjazdowy H5 (w kierunku Będzina) - tam za chwilę podjedzie towarowy, który przejmiemy. Prowadzimy pociąg kontenerowy z dodatkowymi 2xEU07 na przodzie do odstawienia w Łazach. Po dotarciu do Łaz wykonujemy liczne manewry przez ŁB i ŁA celem odstawienia lokomotyw w odpowiednie miejsce. Po ich zakończeniu udajemy się luzakiem do Bukowna po uszkodzony skład towarowy. Trasa jest poprowadzona przez Przemiarki i Dąbrowę Górniczą Wschodnią, gdzie zmieniamy kabinę. Po dotarciu do Bukowna wykonujemy manewry i łączymy się ze składem beczek. Prowadzimy pociąg towarowy z Bukowna do Łaz.
+   ![Photo1](Photos/Misja%202/Photo1.jpg)
+   ![Photo4](Photos/Misja%202/Photo4.jpg)
+   ![Photo3](Photos/Misja%202/Photo3.jpg)
+   ![Photo7](Photos/Misja%202/Photo7.jpg)
+   ![Photo8](Photos/Misja%202/Photo8.jpg)
