@@ -1,7 +1,12 @@
 # Scenatiusze do gry SimRail
 
-Witaj, w repozytorium znajdują się nowe misje do gry SimRail.
-Rozgrywki będą w różnym klimacie (osobowym / towarowym).
+Witaj, w repozytorium znajdują się nowe misje do gry SimRail - wykonane przez: **patwrobel**.<br />
+Każdy scenariusz zawiera liczny ruchem AI, wybór pogody i pory roku oraz godziny rozpoczęcia.<br />
+Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwala na wznawianie przerwanej gry.
+
+# Aktualna wersja
+Wersja: 1.0.1<br />
+Data aktualizacji: 2025.03.17 11:25
 
 ## Instalacja
 Należy pobrać spakowany folder o nazwie **44_patwrobel.7z** i wypakować go do głównego folderu scenariuszy gry SimRail:
