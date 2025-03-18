@@ -13,6 +13,8 @@ Należy pobrać spakowany folder o nazwie **44_patwrobel.7z** i wypakować go do
 
 `..\SteamLibrary\steamapps\common\SimRail\SimRail_Data\StreamingAssets\Sceneries\`
 
+## Pobierz
+Najnowsza wersja dostępna pod adresem: [44_patwrobel.7z](https://github.com/patwrobel/SimRail/releases/latest/download/44_patwrobel.7z)
 
 ## Etap startowy scenariusza
 Każda misja została podzielona na etapy, aby była możliwość grania fragmentami - dokończenia gry od pewnego miejsca. Po każdym uruchomieniu scenariusza użytkownik zostanie poproszony o wybór etapu - są one ułożone po kolei. Możemy zacząć grę od dowolnego etapu i grać do końca.
