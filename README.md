@@ -52,7 +52,7 @@ Mamy do dyspozycji:
 Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią DZB. Udajemy się pod skład 2xEN57, który widzimy na wprost i **rozłączamy jednostki**. Następnie uruchamiamy tylko pierwszy EZT w kierunku Łaz i zgłaszamy się na radiu (kanał 2). Wykonujemy manewry o które prosi nas dyżurny. Po udanych manewrach ruszamy jako pociąg 115232 do Strzemieszyc celem wsparcia uszkodzonego pociągu osobowego. Po dotarciu do Strzemieszyc wykonujemy manewry pod skład 2xEN57 i łączymy go w 3xEN57. Po połączeniu jedziemy jako osobowy 24901 do Katowic zatrzymując się na każdym przystanku.
 - Łączenie w skład 3xEN57:<br />
    - Dojeżdżamy i dobijamy sprzęgi
-   - Wyłączamy kabinę
+   - Wyłączamy kabinę (UWAGA: zostawiamy włączone radio)
    - Podchodzimy do sprzęgu -> prawym -> Połącz wszystko
    - Wchodzimy do kabiny składu II (środkowy) zaraz przy sprzęgu
    - Zwalniamy hamulec ręczny
