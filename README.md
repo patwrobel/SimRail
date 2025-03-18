@@ -55,7 +55,7 @@ Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią D
 - Łączenie w skład 3xEN57:<br />
    - Dojeżdżamy i dobijamy sprzęgi
    - Wyłączamy kabinę (UWAGA: zostawiamy włączone radio)
-   - Podchodzimy do sprzęgu -> prawym -> Połącz wszystko
+   - Podchodzimy do sprzęgu -> prawym -> Upewniamy się że wszystko jest połączone
    - Wchodzimy do kabiny składu II (środkowy) zaraz przy sprzęgu
    - Zwalniamy hamulec ręczny
    - Przechodzimy po składzie na koniec tego EZT po drodze włączamy baterie i odblokowujemy przekaźnik różnicowy
