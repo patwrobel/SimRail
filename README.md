@@ -5,8 +5,8 @@ Każdy scenariusz zawiera liczny ruchem AI, wybór pogody i pory roku oraz godzi
 Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwala na wznawianie przerwanej gry.
 
 # Aktualna wersja
-Wersja: 1.0.3<br />
-Data aktualizacji: 2025.03.18 09:15
+Wersja: 4<br />
+Data aktualizacji: 2025.03.21 12:40
 
 ## Instalacja
 Należy pobrać spakowany folder o nazwie **44_patwrobel.7z** i wypakować go do głównego folderu scenariuszy gry SimRail:
@@ -84,12 +84,14 @@ Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią D
     Skład dostarczyliśmy już do Łaz i rozpoczynamy manewry zgodnie z instrukcjami dyżurnego.
     - Łazy (Wyjazd)<br />
     Jesteśmy już po manewrach i rozpoczynamy służbowy kurs luzakiem do Bukowna przez Przemiarki i Dąbrowę Górniczą Wschodnią (zmiana kabiny). W Bukownie wykonujemy manewry pod uszkodzony skład.
+    - Dąbrowa G. Wsch. (Wyjazd)<br />
+    Luzakiem dotarliśmy już do Dąbrowa Górniczej Wschodniej i zmieniliśmy kabinę. Udajemy się dalej do Bukowna po uszkodzony skład beczek.
     - Bukowno (Wyjazd)<br />
-    Mamy już połączony skład i ruszamy do Łaz z beczkami.
+    Jesteśmy już po manewrach w Bukownie - ruszamy do Łaz składem z beczkami.
     - D.G. Strzemieszyce (Wyjazd)<br />
-    Kontynuujemy jazdę składem z beczkami
+    Kontynuujemy jazdę składem z beczkami ruszając ze stacji Dąbrowa Górnicza Strzemieszyce.
     - Sosnowiec Pł. (Wyjazd)<br />
-    Kontynuujemy jazdę składem z beczkami
+    Kontynuujemy jazdę składem z beczkami ruszając ze stacji Sosnowiec Południowy.
 - Opis:<br />
 Rozpoczynamy na peronie stacji Sosnowiec Główny - tuż po wyjściu z pociągu osobowego. Udajemy się pod semafor wyjazdowy H5 (w kierunku Będzina) - tam za chwilę podjedzie towarowy, który przejmiemy. Prowadzimy pociąg kontenerowy z dodatkowymi 2xEU07 na przodzie do odstawienia w Łazach. Po dotarciu do Łaz wykonujemy liczne manewry przez ŁB i ŁA celem odstawienia lokomotyw w odpowiednie miejsce. Po ich zakończeniu udajemy się luzakiem do Bukowna po uszkodzony skład towarowy. Trasa jest poprowadzona przez Przemiarki i Dąbrowę Górniczą Wschodnią, gdzie zmieniamy kabinę. Po dotarciu do Bukowna wykonujemy manewry i łączymy się ze składem beczek. Prowadzimy pociąg towarowy z Bukowna do Łaz.
    ![Photo1](Photos/Misja%202/Photo1.jpg)
