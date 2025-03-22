@@ -6,7 +6,7 @@ Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwal
 
 # Aktualna wersja
 Wersja: 1.0.5<br />
-Data aktualizacji: 2025.03.22 17:00
+Data aktualizacji: 2025.03.22 20:30
 
 ## Instalacja
 Należy pobrać spakowany folder o nazwie **44_patwrobel.7z** i wypakować go do głównego folderu scenariuszy gry SimRail:
