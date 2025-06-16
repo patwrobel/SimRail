@@ -31,10 +31,8 @@ Mamy do dyspozycji:
    - Mglista (Jesień)
    - Śnieżna (Zima)
 - Pora dnia:
-   - Rano (07:00)
-   - Popołudniu (12:00)
-   - Wieczorem (18:00)
-   - Noc (22:00)
+   - ★ Uruchom scenariusz z domyślną godziną ★
+   - Lista godzin co 2h od 3:00 do 23:00
 
 ## Misje
 - [Misja 1 - Strzemieszyce 3xEN57](#misja-1---strzemieszyce-3xen57)
