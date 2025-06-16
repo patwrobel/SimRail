@@ -5,8 +5,8 @@ Każdy scenariusz zawiera liczny ruchem AI, wybór pogody i pory roku oraz godzi
 Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwala na wznawianie przerwanej gry.
 
 # Aktualna wersja
-Wersja: 1.0.7<br />
-Data aktualizacji: 2025.03.31
+Wersja: 1.1.0<br />
+Data aktualizacji: 2025.06.16
 
 ## Instalacja
 Należy pobrać spakowany folder o nazwie **44_patwrobel.7z** i wypakować go do głównego folderu scenariuszy gry SimRail:
@@ -39,6 +39,7 @@ Mamy do dyspozycji:
 ## Misje
 - [Misja 1 - Strzemieszyce 3xEN57](#misja-1---strzemieszyce-3xen57)
 - [Misja 2 - Łazy Cargo](#misja-2---łazy-cargo)
+- [Misja 3 - Sprinter KM - RE1](#misja-3---sprinter-km---re1)
 
 ## Misja 1 - Strzemieszyce 3xEN57
 - Tabor: EN57
@@ -70,6 +71,7 @@ Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią D
    - Wywołujemy dyżurnego
    - Cofamy za semafor V
    - **UWAGA:<br />jeżeli nie będzie można cofnąć (skład odhamowany, ale nie jedzie) wówczas podchodzimy do sprzęgu między I a II (tym co sami go łączyliśmy) i klikamy prawym "Rozłącz przewody sterujące" następnie znów "Połącz przewody sterujące" i wracamy do kabiny**
+- Zdjęcia:
    ![Photo1](Photos/Misja%201/Photo1.jpg)
    ![Photo3](Photos/Misja%201/Photo3.jpg)
    ![Photo4](Photos/Misja%201/Photo4.jpg)
@@ -94,8 +96,83 @@ Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią D
     Kontynuujemy jazdę składem z beczkami ruszając ze stacji Sosnowiec Południowy.
 - Opis:<br />
 Rozpoczynamy na peronie stacji Sosnowiec Główny - tuż po wyjściu z pociągu osobowego. Udajemy się pod semafor wyjazdowy H5 (w kierunku Będzina) - tam za chwilę podjedzie towarowy, który przejmiemy. Prowadzimy pociąg kontenerowy z dodatkowymi 2xEU07 na przodzie do odstawienia w Łazach. Po dotarciu do Łaz wykonujemy liczne manewry przez ŁB i ŁA celem odstawienia lokomotyw w odpowiednie miejsce. Po ich zakończeniu udajemy się luzakiem do Bukowna po uszkodzony skład towarowy. Trasa jest poprowadzona przez Przemiarki i Dąbrowę Górniczą Wschodnią, gdzie zmieniamy kabinę. Po dotarciu do Bukowna wykonujemy manewry i łączymy się ze składem beczek. Prowadzimy pociąg towarowy z Bukowna do Łaz.
+- Zdjęcia:
    ![Photo1](Photos/Misja%202/Photo1.jpg)
    ![Photo4](Photos/Misja%202/Photo4.jpg)
    ![Photo3](Photos/Misja%202/Photo3.jpg)
    ![Photo7](Photos/Misja%202/Photo7.jpg)
    ![Photo8](Photos/Misja%202/Photo8.jpg)
+
+## Misja 3 - Sprinter KM - RE1
+- Tabor: 2xEN76 - Elf
+- Kanał startowy: 2
+- Opis:<br />
+Rozpoczynamy na peronie p.o. Warszawa Powiśle. Przejmujemy pociąg 91836 relacji Grodzisk Mazowiecki - Warszawa Wschodnia (1xELF). Po dojechaniu do stacji Warszawa Wschodnia zjeżdżamy w tory postojowe i łączymy się z drugim EZT. Po połączeniu składu jedziemy jako pociąg przyśpieszony RE1 19152 jednej z 3 wybranych relacji:<br/>
+**UWAGA: Przystanki Powiśle i Stadion nie są obsługiwane więc nie otwieramy drzwi**
+- Trasy:
+    - W-wa Wschodnia - **Grodzisk Mazowiecki** - W-wa Wschodnia
+    - W-wa Wschodnia - **Żyrardów** - W-wa Wschodnia
+    - W-wa Wschodnia - **Skierniewice** - W-wa Wschodnia
+- **W-wa Wschodnia - Grodzisk Mazowiecki - W-wa Wschodnia:**
+    - Przebieg:<br />
+      -  Do stacji Pruszków:<br />
+         pociąg przyśpieszony z zatrzymaniem: Wschodnia / Centralna / Zachodnia<br />
+      -  Od stacji Pruszków:<br />
+         zatrzymanie na każdym przystanku osobowym
+    - Etapy:
+      -  Warszawa Powiśle (Początek)
+      -  Warszawa Wschodnia (Tor postojowy)
+      -  Warszawa Zachodnia (Wyjazd)
+      -  Grodzisk Mazowiecki (Tor postojowy)
+      -  Józefinów (Pod wjazdem)
+- **W-wa Wschodnia - Żyrardów - W-wa Wschodnia:**
+    - Przebieg:<br />
+      -  Do stacji Grodzisk Mazowiecki:<br />
+         pociąg przyśpieszony z zatrzymaniem: Wschodnia / Centralna / Zachodnia<br />
+      -  Od stacji Grodzisk Mazowiecki:<br />
+         zatrzymanie na każdym przystanku osobowym
+    - Etapy:
+      -  Warszawa Powiśle (Początek)
+      -  Warszawa Wschodnia (Tor postojowy)
+      -  Warszawa Zachodnia (Wyjazd)
+      -  Grodzisk Mazowiecki (Wjazd od Warszawy)
+      -  Żyrardów (Tor postojowy)
+      -  Józefinów (Pod wjazdem)
+- **W-wa Wschodnia - Skierniewice - W-wa Wschodnia:**
+    - Przebieg:<br />
+      -  Do stacji Grodzisk Mazowiecki:<br />
+         pociąg przyśpieszony z zatrzymaniem: Wschodnia / Centralna / Zachodnia<br />
+      -  Od stacji Grodzisk Mazowiecki:<br />
+         zatrzymanie na każdym przystanku osobowym
+    - Etapy:
+      -  Warszawa Powiśle (Początek)
+      -  Warszawa Wschodnia (Tor postojowy)
+      -  Warszawa Zachodnia (Wyjazd)
+      -  Grodzisk Mazowiecki (Wjazd od Warszawy)
+      -  Żyrardów (Wjazd od Warszawy)
+      -  Skierniewice (Tor postojowy)
+      -  Żyrardów (Wjazd od Skierniewic)
+      -  Józefinów (Pod wjazdem)
+- **Manewry:**
+    - Na każdej stacji docelowej (Grodzisk Maz. / Żyrardów / Skierniewice) gracz po zjechaniu w tory postojowe będzie zapytany czy chce wykonać dodatkowe prace na stacji. Dla każdej z tych 3 stacji jest różne zadanie do wykonania.
+    - Pytanie o manewry jest zawsze - niezależnie od konfiguracji opcji "Proszę wybrać konfigurację wydarzeń losowych" (opis niżej)
+    - Manewry na st. Grodzisk Mazowiecki determinują inny wyjazd ze stacji
+- Dodatkowe opcje:
+    - W scenariuszu jest dodatkowe pytanie:<br />
+      **Proszę wybrać konfigurację wydarzeń losowych**
+    - Opis<br />
+      W misji zaszyte są "wieksze" zdarzenia losowe - gracz może mieć wpływ na ich przebieg. Chodzi tu o zamknięte toru, jazdę lewym torem lub dodatkowe manewry.Dlatego na początku misji gracz zostanie poproszony o wybranie jednej z 3 opcji:
+    - Możliwe opcje do wyboru:
+      -  ★ Wydarzenia losowane zgodnie ze scenariuszem ★<br />
+         Zdarzenia losują się zgodnie z przyjętym prawdopodobieństwem.
+      -  Jazda bez wydarzeń losowych<br />
+         Brak wydarzeń - czysta jazda bez większysz wydarzeń.
+      -  Gracz decyduje przy kazdym zdarzeniu<br />
+         Przy każdym zdarzeniu gracz zostanie poproszony o wskazanie, który scenariusz wybiera dla najbliższej sytuacji.<br />
+    - Niezależnie od tych "większych" wydarzeń po drodze są losowane mniejsze zdarzenia - jak brak wjazdu / wyjazdu, inny tor przejazdu na stacji, czy nie działający TOP.
+- Zdjęcia:
+![Photo1](Photos/Misja%203/Photo1.jpg)
+![Photo2](Photos/Misja%203/Photo2.jpg)
+![Photo3](Photos/Misja%203/Photo3.jpg)
+![Photo4](Photos/Misja%203/Photo4.jpg)
+![Photo5](Photos/Misja%203/Photo5.jpg)
