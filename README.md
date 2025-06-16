@@ -159,7 +159,7 @@ Rozpoczynamy na peronie p.o. Warszawa Powiśle. Przejmujemy pociąg 91836 relacj
     - W scenariuszu jest dodatkowe pytanie:<br />
       **Proszę wybrać konfigurację wydarzeń losowych**
     - Opis<br />
-      W misji zaszyte są "wieksze" zdarzenia losowe - gracz może mieć wpływ na ich przebieg. Chodzi tu o zamknięcie toru, jazdę lewym torem lub dodatkowe manewry.Dlatego na początku misji gracz zostanie poproszony o wybranie jednej z 3 opcji:
+      W misji zaszyte są "większe" zdarzenia losowe - gracz może mieć wpływ na ich przebieg. Chodzi tu o zamknięcie toru, jazdę lewym torem lub dodatkowe manewry. Dlatego na początku misji gracz zostanie poproszony o wybranie jednej z 3 opcji:
     - Możliwe opcje do wyboru:
       -  ★ Wydarzenia losowane zgodnie ze scenariuszem ★<br />
          Zdarzenia losują się zgodnie z przyjętym prawdopodobieństwem.
