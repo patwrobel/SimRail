@@ -169,14 +169,14 @@ Rozpoczynamy na peronie p.o. Warszawa Powiśle. Przejmujemy pociąg 91836 relacj
          Przy każdym zdarzeniu gracz zostanie poproszony o wskazanie, który scenariusz wybiera dla najbliższej sytuacji.<br />
     - Niezależnie od tych "większych" wydarzeń po drodze są losowane mniejsze zdarzenia - jak brak wjazdu / wyjazdu, inny tor przejazdu na stacji, czy nie działający TOP.
 - **Łączenie ELFów:**
-    - Podjeżdzamy i uderzamy z niską prędkością (ok 3km/h) o sprzęg drugiego EZT
+    - Podjeżdżamy i uderzamy z niską prędkością (ok 3km/h) o sprzęg drugiego EZT
     - Wychodzimy z kabiny i podchodzimy do pierwszych drzwi drugiego EZT
     - Włączamy baterię (zielona klapka przy drzwiach na zewnątrz)
     - Wchodzimy do kabiny i przełączamy aktywację kabiny na:<br />
       Aktywacja ostatniej kabiny w trakcji wilokrotnej
     - Wracamy do pierwszego EZT i przełączamy aktywację kabiny na:<br />
       Aktywacja pierwszej kabiny w trakcji wilokrotnej
-    - Odchamowujemy
+    - Odhamowujemy (Odblokowanie przewodu głównego)
     - UWAGA: ważne aby w drugiej EZT zadajnik jazdy był na środku<br />
       (nie może być w pozycji hamowania)
 - Zdjęcia:
