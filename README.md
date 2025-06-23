@@ -5,8 +5,8 @@ Każdy scenariusz zawiera liczny ruchem AI, wybór pogody i pory roku oraz godzi
 Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwala na wznawianie przerwanej gry.
 
 # Aktualna wersja
-Wersja: 1.1.7<br />
-Data aktualizacji: 2025.06.19
+Wersja: 1.1.8<br />
+Data aktualizacji: 2025.06.23
 
 ## Instalacja
 Należy pobrać spakowany folder o nazwie **44_patwrobel.7z** i wypakować go do głównego folderu scenariuszy gry SimRail:
