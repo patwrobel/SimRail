@@ -5,8 +5,8 @@ Każdy scenariusz zawiera liczny ruchem AI, wybór pogody i pory roku oraz godzi
 Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwala na wznawianie przerwanej gry.
 
 # Aktualna wersja
-Wersja: 1.1.18<br />
-Data aktualizacji: 2025.09.15
+Wersja: 1.4.0<br />
+Data aktualizacji: 2025.09.26
 
 ## Instalacja
 Należy pobrać spakowany folder o nazwie **44_patwrobel.7z** i wypakować go do głównego folderu scenariuszy gry SimRail:
@@ -35,11 +35,12 @@ Mamy do dyspozycji:
    - Lista godzin co 2h od 3:00 do 23:00
 
 ## Misje
-- [Misja 1 - Strzemieszyce 3xEN57](#misja-1---strzemieszyce-3xen57)
-- [Misja 2 - Łazy Cargo](#misja-2---łazy-cargo)
-- [Misja 3 - Sprinter KM - RE1](#misja-3---sprinter-km---re1)
+- [Misja 1: Strzemieszyce 3xEN57](#misja-1-strzemieszyce-3xen57)
+- [Misja 2: Łazy Cargo](#misja-2-łazy-cargo)
+- [Misja 3: Sprinter KM - RE1](#misja-3-sprinter-km---re1)
+- [Misja 4: Cargo: Kraków - Płock](#misja-4-cargo-kraków---płock)
 
-## Misja 1 - Strzemieszyce 3xEN57
+## Misja 1: Strzemieszyce 3xEN57
 - Tabor: EN57
 - Kanał startowy: 2
 - Etapy:
@@ -74,7 +75,7 @@ Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią D
    ![Photo3](Photos/Misja%201/Photo3.jpg)
    ![Photo4](Photos/Misja%201/Photo4.jpg)
 
-## Misja 2 - Łazy Cargo
+## Misja 2: Łazy Cargo
 - Tabor: ET22 / EU07 / Dragon / Traxx
 - Kanał startowy: 2
 - Etapy:
@@ -101,7 +102,7 @@ Rozpoczynamy na peronie stacji Sosnowiec Główny - tuż po wyjściu z pociągu 
    ![Photo7](Photos/Misja%202/Photo7.jpg)
    ![Photo8](Photos/Misja%202/Photo8.jpg)
 
-## Misja 3 - Sprinter KM - RE1
+## Misja 3: Sprinter KM - RE1
 - Tabor: 2xEN76 - Elf
 - Kanał startowy: 2
 - Opis:<br />
@@ -185,3 +186,48 @@ Rozpoczynamy na peronie p.o. Warszawa Powiśle. Przejmujemy pociąg 91836 relacj
 ![Photo3](Photos/Misja%203/Photo3.jpg)
 ![Photo4](Photos/Misja%203/Photo4.jpg)
 ![Photo5](Photos/Misja%203/Photo5.jpg)
+
+## Misja 4: Cargo: Kraków - Płock
+- Tabor: ET22 / EU07 / Dragon / Traxx
+- Kanał startowy: 1
+- Trasa: Kraków Główny Towarowy - Płock Trzepowo przez:
+    - Kozłów<br />
+    - Włoszczowa<br />
+    - Idzikowice<br />
+    - Koluszki<br />
+    - Skierniewice<br />
+    - Kutno
+- Opis:<br />
+Naszym zadaniem na dziś jest dostarczyć próżny skład beczek ze stacji Kraków Główny Towarowy do Płock Trzepowo. Rozpoczynamy pracę na stacji Kraków Główny Towarowy (KGA), gdzie w tle stoi nasza wygaszona lokomotywa. Uruchamiamy i zgłaszamy się do wykonania manewrów pod skład beczek na stacji. Po wykonaniu próby ruszamy w długa i malowniczą trasę biegnącą linią 8 aż do Kozłowa gdzie kierujemy się na CMK. Po dojechaniu do stacji Idzikowice zostaniemy skierowani łącznicą na linię 22 do Tomaszowa Mazowieckiego, a następnie liniami 25 i 534 trafiamy do Koluszek. Tu mamy do wyboru dwa scenariusze:
+    - Kontynuować dalej jazdę z tym składem<br />
+    Po dojechaniu do Skierniewic udajemy się łącznicą w kierunku Łowicza.
+    - Wykonać dodatkowe manewry i zabrać dodatkowe 5 wagonów do st. Skierniewice<br />
+    Po wykonaniu manewrów i uformowaniu nowego składu udajemy się do Skierniewic, gdzie wykonujemy manewry i odstawiamy dodatkowe wagony do składu w kierunku Warszawy. Sami z beczkami wracamy na szlak w kierunku Łowicza.
+- Dodatkowe elementy w scenariuszu:
+    - Na CKM sa dwa długie odcinki, które możemy pominąć - skład przeskoczy do wjazdu do najbliższej stacji (za każdym razem jesteśmy pytani o decyzję). Dotyczy odcinków:
+      - Włoszczowa Północ - Olszamowice
+      - Olszamowice - Pilichowice
+    - W grze brakuje odcinka Radzice - Mikołajów. Po dojechaniu do Radzic gra automatycznie przerzuca nas pod wjazd w Mikołajowie
+- Etapy:
+    - ★ Kraków Gł. Tow. (Początek) ★<br />
+    - Kraków Gł. Tow. (Wyjazd)<br />
+    - Kraków Gł. Tow. (Wyjazd)<br />
+    - Niedźwiedź (Wjazd)<br />
+    - Kozłów (Wjazd)<br />
+    - Starzyny (Wjazd)<br />
+    - Włoszczowa Północ (Wyjazd)<br />
+    - Olszamowice (Wjazd)<br />
+    - Pilichowice (Wjazd)<br />
+    - Opoczno Południe (Wjazd)<br />
+    - Idzikowice (Wjazd)<br />
+    - Mikołajów (Wjazd)<br />
+    - Koluszki (Wjazd)<br />
+    - Koluszki (Wyjazd)<br />
+    - Skierniewice (Wjazd)<br />
+- Zdjęcia:
+![Photo1](Photos/Misja%204/Photo1.png)
+![Photo2](Photos/Misja%204/Photo2.png)
+![Photo3](Photos/Misja%204/Photo3.jpg)
+![Photo4](Photos/Misja%204/Photo4.jpg)
+![Photo5](Photos/Misja%204/Photo5.jpg)
+![Photo6](Photos/Misja%204/Photo6.jpg)
