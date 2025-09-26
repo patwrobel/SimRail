@@ -1,4 +1,4 @@
-# Scenatiusze do gry SimRail
+# Scenariusze do gry SimRail
 
 Witaj, w repozytorium znajdują się nowe misje do gry SimRail - wykonane przez: **patwrobel**.<br />
 Każdy scenariusz zawiera liczny ruchem AI, wybór pogody i pory roku oraz godziny rozpoczęcia.<br />
