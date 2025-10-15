@@ -5,7 +5,7 @@ Każdy scenariusz zawiera liczny ruchem AI, wybór pogody i pory roku oraz godzi
 Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwala na wznawianie przerwanej gry.
 
 # Aktualna wersja
-Wersja: 1.4.13<br />
+Wersja: 1.4.14<br />
 Data aktualizacji: 2025.10.14
 
 ## Instalacja
@@ -166,7 +166,7 @@ Rozpoczynamy na peronie p.o. Warszawa Powiśle. Przejmujemy pociąg 91836 relacj
          Zdarzenia losują się zgodnie z przyjętym prawdopodobieństwem.
       -  Jazda bez wydarzeń losowych<br />
          Brak wydarzeń - czysta jazda bez większysz wydarzeń.
-      -  Gracz decyduje przy kazdym zdarzeniu<br />
+      -  Gracz decyduje przy każdym zdarzeniu<br />
          Przy każdym zdarzeniu gracz zostanie poproszony o wskazanie, który scenariusz wybiera dla najbliższej sytuacji.<br />
     - Niezależnie od tych "większych" wydarzeń po drodze są losowane mniejsze zdarzenia - jak brak wjazdu / wyjazdu, inny tor przejazdu na stacji, czy nie działający TOP.
 - **Łączenie ELFów:**
