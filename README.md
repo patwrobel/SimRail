@@ -5,8 +5,8 @@ Każdy scenariusz zawiera liczny ruchem AI, wybór pogody i pory roku oraz godzi
 Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwala na wznawianie przerwanej gry.
 
 # Aktualna wersja
-Wersja: 1.4.16<br />
-Data aktualizacji: 2025.11.12
+Wersja: 1.4.17<br />
+Data aktualizacji: 2025.11.24
 
 ## Instalacja
 Należy pobrać spakowany folder o nazwie **44_patwrobel.7z** i wypakować go do głównego folderu scenariuszy gry SimRail:
@@ -103,10 +103,10 @@ Rozpoczynamy na peronie stacji Sosnowiec Główny - tuż po wyjściu z pociągu 
    ![Photo8](Photos/Misja%202/Photo8.jpg)
 
 ## Misja 3: Sprinter KM - RE1
-- Tabor: 2xEN76 - Elf
+- Tabor: 2xEN76 - Elf  /  2xEN57
 - Kanał startowy: 2
 - Opis:<br />
-Rozpoczynamy na peronie p.o. Warszawa Powiśle. Przejmujemy pociąg 91836 relacji Grodzisk Mazowiecki - Warszawa Wschodnia (1xELF). Po dojechaniu do stacji Warszawa Wschodnia zjeżdżamy w tory postojowe i łączymy się z drugim EZT. Po połączeniu składu jedziemy jako pociąg przyśpieszony RE1 19152 jednej z 3 wybranych relacji:<br/>
+Rozpoczynamy na peronie p.o. Warszawa Powiśle. Przejmujemy pociąg 91836 relacji Grodzisk Mazowiecki - Warszawa Wschodnia (1xEZT). Po dojechaniu do stacji Warszawa Wschodnia zjeżdżamy w tory postojowe i łączymy się z drugim EZT. Po połączeniu składu jedziemy jako pociąg przyśpieszony RE1 19152 jednej z 3 wybranych relacji:<br/>
 **UWAGA: Przystanki Powiśle i Stadion nie są obsługiwane więc nie otwieramy drzwi**
 - Trasy:
     - W-wa Wschodnia - **Grodzisk Mazowiecki** - W-wa Wschodnia
