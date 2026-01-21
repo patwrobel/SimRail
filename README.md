@@ -5,8 +5,8 @@ Każdy scenariusz zawiera liczny ruchem AI, wybór pogody i pory roku oraz godzi
 Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwala na wznawianie przerwanej gry.
 
 # Aktualna wersja
-Wersja: 1.4.21<br />
-Data aktualizacji: 2025.12.15
+Wersja: 1.5.0<br />
+Data aktualizacji: 2026.01.21
 
 ## Instalacja
 Należy pobrać spakowany folder o nazwie **44_patwrobel.7z** i wypakować go do głównego folderu scenariuszy gry SimRail:
@@ -23,22 +23,29 @@ Każda misja została podzielona na etapy, aby była możliwość grania fragmen
 Scenariusze zawierają liczny ruch AI oraz zdarzenia losowe (w tym wygaszenia semaforów, uszkodzenia przejazdów, sygnały zastęcze, jazda lewym torem, itp.)
 
 ## Pogoda i pora dnia
-Każdorazowo gra prosi na starcie o określenie pogody (pora roku) oraz pory dnia.
-Mamy do dyspozycji:
-- Pogowa (poda roku):
-   - Deszczowa (Wiosna)
-   - Słoneczna (Lato)
-   - Mglista (Jesień)
-   - Śnieżna (Zima)
+Pogoda jest dynamiczna i podlega pewnym zmianom podczas grania - mechanizm został przeniesiony z orginalnych scenariuszy SimRail. Każdorazowo na starcie gra prosi o określenie pory roku, pogody oraz pory dnia.
+Mamy do dyspozycji następujące opcje:
+- Pora roku:
+   - Wiosna
+   - Lato
+   - Jesień
+   - Zima
+- Pogoda:
+   - Słonecznie
+   - Mgliście
+   - Deszczowo
+   - Burzowo
+   - Śnieżnie
 - Pora dnia:
    - ★ Uruchom scenariusz z domyślną godziną ★
-   - Lista godzin co 2h od 3:00 do 23:00
+   - ręczny wybór dowolnej godziny
 
 ## Misje
 - [Misja 1: Strzemieszyce 3xEN57](#misja-1-strzemieszyce-3xen57)
 - [Misja 2: Łazy Cargo](#misja-2-łazy-cargo)
 - [Misja 3: Sprinter KM - RE1](#misja-3-sprinter-km---re1)
 - [Misja 4: Cargo: Kraków - Płock](#misja-4-cargo-kraków---płock)
+- [Misja 5: Osobowy: Łódź - Warszawa](#misja-5-osobowy-łódź---warszawa)
 
 ## Misja 1: Strzemieszyce 3xEN57
 - Tabor: EN57
@@ -231,3 +238,88 @@ Naszym zadaniem na dziś jest dostarczyć próżny skład beczek ze stacji Krak�
 ![Photo4](Photos/Misja%204/Photo4.jpg)
 ![Photo5](Photos/Misja%204/Photo5.jpg)
 ![Photo6](Photos/Misja%204/Photo6.jpg)
+
+## Misja 5: Osobowy: Łódź - Warszawa
+- Tabor: EN57 / EN71 / ELF / EU07 / EP07 / EP08 / ET22 / TRAXX / DRAGON / PENDOLINO
+- Kanał startowy: 7
+    - Manewry ŁKA (Widzew): 9
+    - KM: 2
+- <b>UWAGA - DLC:</b>
+    - Do prawidłowego działania wymagane jest DLC Łódź 1
+    - Jeżeli gracz wybierze etap z Grodziska Maz. wówczas można bez DLC
+- <span style="color:blue; font-weight: bold">Dostępne trasy</span> (orientacyjny czas przejazdu):
+    - 1.5h&emsp; [ŁKA] Łódź Fabryczna - Warszawa (Sprinter)
+    - 1.5h&emsp; [ŁKA] Łódź Fabryczna - Warszawa (Przyśp.)
+    - 2.5h&emsp; [ŁKA] Łódź Fabryczna - Warszawa (Osobowy)
+    - 1.5h&emsp; &ensp; [IC] Łódź Fabryczna - Warszawa (InterCity)
+    - 1.5h&emsp; &ensp;[PR] Łódź Fabryczna - Warszawa (InterRegio)
+    - 1.5h&emsp; &ensp;[PR] Łódź Kaliska - Warszawa (InterRegio)
+    - 2.5h&emsp; &ensp;[PR] Łódź Kaliska - Warszawa (Regio)
+    - 1.0h&emsp; &nbsp;[KM] Skierniewice - Warszawa (Sprinter)
+    - 1.0h&emsp; &nbsp;[KM] Skierniewice - Warszawa (RE)
+    - 1.5h&emsp; &nbsp;[KM] Skierniewice - Warszawa (Osobowy)
+    - 1.0h&emsp; &nbsp;[KM] Żyrardów - Warszawa (Osobowy)
+    - 0.8h&emsp; &nbsp;[KM] Grodzisk Maz. - Warszawa (Osobowy)
+- Zatrzymania:
+    - ŁKA [Sprinter]:&emsp;KO, Rg, Ske, Zr, WZ, WC, WW
+    - ŁKA [Przyś.]:&emsp;&emsp;KO, Rg, Pl, Ske, Zr, Gr, Pr, WZ, WC, WW
+    - ŁKA [Os.]:&emsp;&emsp;&emsp;wszystkie przystanki
+    - InterCity:&emsp;&emsp;&emsp; KO, Ske, Zy, WZ, WC, WW
+    - PR [InterRegio]:&ensp;LA, KO, LR, Ske, SR, Zy, Gr, WZ, WC, WW
+    - PR [Regio]:&emsp;&emsp;&ensp;wszystkie przystanki     
+    - KM [Sprinter]:&emsp; Ske, Zy, Gr, WZ, WC, WW        
+    - KM [RE]:&emsp;&emsp;&emsp;&ensp;do Gr jako os. dalej: WZ, WC, WW
+    - KM [Os.]:&emsp;&emsp;&emsp; wszystkie przystanki  
+- Skróty stacji:
+    - LA = Łódź Andrzejów
+    - KO = Koluszki
+    - Rg = Rogów
+    - LR = Lipce Reymontowskie
+    - Pl = Płyćwia
+    - Ske = Skierniewice
+    - SR = Skierniewice Rawka
+    - Zr = Żyrardów
+    - Gr = Grodziska Mazowiecki
+    - Pr = Pruszków
+    - WZ = Warszawa Zachodnia
+    - WC = Warszawa Cententralna
+    - WW = Warszawa Wschodnia
+- Opis:<br />
+   Trasa scenariusza przebiega na odcinku Łódź Widzew - Koluszki - Skierniewice - Żyrardów - Grodzisk Maz. - Warszawa. Gracz po uruchomieniu scenariusza ma do dyspozycji wybór dostepnych tras. W zależności od jego wyboru będzię miał do dyspozycji inne pojazdy, inny wybór dostępnych etapów oraz start misji może się różnić. Do każdej trasy jest przygotowany inny zakres postojów handlowych, inne czasy przejazdu - rozróżnione na wolniejsze składy (do 120km/h) oraz szybsze (powyżej 120 km/h).
+   <br />
+- <span style="color:red;">Linia podmiejska [tunel średnicowy]</span>:<br />
+   Wszystkie pociągi osobowe jadą linią podmiejską - dojeżdzają do p.o. Warszawa Ochota i po wjechaniu do tunelu gracz zostaje przeniesiony na p.o. Warszawa Powiśle.<br />
+   Przystanki Powiśle i Stadion jeszcze nie obsługują otwierania drzwi, więc gracz jest poproszony o zatrzymanie i odczekanie 15 sek. (<b>bez otwierania drzwi</b>) - następnie jest komunikat od kierownika i może jechać dalej.
+
+- <b>ŁKA - Łódzka Kolej Aglomeracyjna (dodatkowe manewry):</b><br />
+   Dostępne składy: EN57 / ELF.<br />
+   Jeżeli wybierzemy etap "Początek" wówczas rozpoczniemy scenariusz na peronie stacji Łódź Widzew. Naszym pierwszym zadaniem będzie uformowanie składu dla pociągu 97710 i wyprawienie go w peron, gdzie przejmie go od nas inny maszynista. Skład do manewrów jest zawsze odwrotny do wybranego przez gracza (jeżeli wybrał EN57 to manerwy są na ELFie i  odwrotnie). Jeżeli gracz wybierze podwójny EZT wówczas manewry są dłuższe z łączeniem składu w dwu-skład z dwóch róznych torów. Po wykonanych manewrach wracamy na bazę ŁKA i przygotowujemy swój skład (jeżeli podwójny to musimy połączyć z innego toru). Po wykonanych manewrach wyjeżdżamy na stację Łódź Widzew i jedziemy do stacji Łódź Fabryczna (bez stacji - jeszcze nie gotowa w SimRail). Po wyjechaniu ze stacji pojawiamy się na wjeździe do Widzewa jako pociąg 1935 zgodnie z wybraną wersją i prowadzimy skład do samej Warszawy. Po drodze czekają nas licne zdarzenia losowe, ruch kolizyjny, przepuszczanie szybszych pociągów czy rozkazy pisemne i awarie sygnalizacji. Wszystkie zdarzenia są losowe i każdy przejazd jest inny. Po dojechaniu do stacji Warszawa Wschodnia wykonujemy manewry w tory postojowe stacji i zakańczamy scenariusz wyłącząc skład i wychodząc na zewnątrz (UWAGA: musi być ciśnienie w przewodzie głównym poniżej 4.7)
+<br /><br />
+- <b>IC - InterCity (dodatkowe podstawienie z Olechowa):</b><br />
+   Dostępne składy: EU07 / EP07 / EP08 / TRAXX / DRAGON / ET22 / PENDOLINO<br />
+   Dostępna ilość wagonów dla lokomotyw: 9 / 7 / 5<br />
+   Jeżeli wybierzemy etap "Początek" wówczas rozpoczynamy misję na pociągu służbowym 116002 relacji Łódź Olechów - Łódź Fabryczna. Skład będzie stał pod semaforem wyjazdowym ze stacji Łódź Olechów (p.o. Łódź Andrzejów Szosa). Przejeżdzamy krótki odcinek aż za stację Łódź Widzew i po chwili pojawiamy się na wjeździe do Łódź Widzew od strony Fabrycznej. Prowadzimy pociąg 1935 zatrzymując się na kilku postojach handlowych (Koluszki, Skierniewice, Żyrardów i Warszawa). Podczas podróży natrafimy na liczne zmiany torów, blokowanie ruchu przez pociągi osobowe czy towarowe, wyprzedzania na stacjach. Pojawią się rozkazy pisemne i problemy z sygnalizacją. Wszystkie zdarzenia są losowe i każdy przejazd jest inny. Po dojechaniu do stacji Warszawa Wschodnia zjeżdzamy na stację postojową Warszawa Grochów, gdzie nastąpi zakończenie scenariusza.
+<br /><br />
+- <b>PR - PolRegio (dodatkowa trasa z Łódź Dąbrowa):</b><br />
+   Dostępne składy IR (InterRegio): EU07 / EP07 / EP08 / ET22 / TRAXX / DRAGON / ELF / EN57 / EN71<br />
+   Dostępne składy R (Regio): EN57 / EN71 / ELF / EU07 / EP07 / EP08 / ET22 / TRAXX / DRAGON<br />
+   Dostępna ilość wagonów dla lokomotyw: 3 / 5 / 7 / 9<br />
+   Jeżeli wybierzemy etap "Początek" wówczas prowadzimy skła z Łódzi Kaliskiej do Warszawy i rozpoczynamy misję na p.o. Łódź Dąbrowa (2 przystanki przed Łódź Widzew). Po dojechaniu do stacji Łódź Widzew prowadzimy skład normalnie do Warszawy. Po drodze mamy liczne losowe zdarzenia i krzyżowanie ruchu z innymi składami. Po dojechaniu do stacji Warszawa Wschodnia, gdy kierownik sprawdzi skład zjeżdzamy do stacji Warszawa Praga (wyjazd na linię 9 w kierunku Gdańska). Scenariusz kończy się tuż za stacją Warszawa Wschodnia.<br />
+   UWAGA: jeżeli prowadzimy skład Regio i jedziemy linią podmiejską wówczas na Wschodniej przejeżdzamy z lini podmiejskiej na dalekobieżną i wjeżdzamy na peron 5 stacji Warszawa Wschodnia
+<br /><br />
+- <b>KM - Koleje Mazowieckie (dla osobowego dostępne 3 trasy):</b><br />
+   Dostępne składy: EN57 / ELF / TRAXX<br />
+   Dostępna ilość wagonów dla TRAXX: 3 / 4 / 5 (celowo wagony stare bo są na 160 km/h)<br />
+   Domyślnie trasy dla KM zaczynają się w Skierniewicach na torze postojowym. Dla wersji osobowej mamy do dyspozycji dodatkowy start z Żyrardowa i Grodziska Mazowieckiego. Po rozpoczęciu misji udajemy się do stacji docelowej zatrzymując się na wszystkich postojach handlowych przewidzianych w rozkładzie jazdy. Rozkład RE został przygotowany na wzór obecnie obowiązujących przystanków KM do Skierniewic. Sprinter to wersja pośpieszna z zatrzymaniem tylko na głównych stacjach.
+- Etapy:
+    - ★ Początek ★
+    - Koluszki
+    - Skierniewice
+    - Żyrardów
+    - Grodzisk Mazowiecki
+- Zdjęcia:<br />
+![Photo1](Photos/Misja%205/Photo1.png)
+![Photo2](Photos/Misja%205/Photo2.png)
+![Photo3](Photos/Misja%205/Photo3.jpg)
+![Photo4](Photos/Misja%205/Photo4.jpg)
+![Photo5](Photos/Misja%205/Photo5.jpg)
