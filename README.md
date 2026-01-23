@@ -8,13 +8,14 @@ Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwal
 Wersja: 1.5.1<br />
 Data aktualizacji: 2026.01.22
 
-## Instalacja
-Należy pobrać spakowany folder o nazwie **44_patwrobel.7z** i wypakować go do głównego folderu scenariuszy gry SimRail:
+## Instalacja - WorkShop (zalecane)
+Wchodzimy na adres workshop: **[Patwrobel Scenerios](https://steamcommunity.com/sharedfiles/filedetails/?id=3651816992)** i klikamy **Zasubskrybuj**<br />
+Wszystkie aktualizacje będą instalowały się automatycznie
+
+## Instalacja - ręczna
+Należy pobrać plik z adresu: **[44_patwrobel.7z](https://github.com/patwrobel/SimRail/releases/latest/download/44_patwrobel.7z)** i wypakować go do głównego folderu scenariuszy gry SimRail (aktualizacje trzeba wgrywać ręcznie):
 
 `..\SteamLibrary\steamapps\common\SimRail\SimRail_Data\StreamingAssets\Sceneries\`
-
-## Pobierz
-Najnowsza wersja dostępna pod adresem: [44_patwrobel.7z](https://github.com/patwrobel/SimRail/releases/latest/download/44_patwrobel.7z)
 
 ## Etap startowy scenariusza
 Każda misja została podzielona na etapy, aby była możliwość grania fragmentami - dokończenia gry od pewnego miejsca. Po każdym uruchomieniu scenariusza użytkownik zostanie poproszony o wybór etapu - są one ułożone po kolei. Możemy zacząć grę od dowolnego etapu i grać do końca.
