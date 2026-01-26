@@ -5,8 +5,8 @@ Każdy scenariusz zawiera liczny ruchem AI, wybór pogody i pory roku oraz godzi
 Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwala na wznawianie przerwanej gry.
 
 # Aktualna wersja
-Wersja: 1.5.5<br />
-Data aktualizacji: 2026.01.25
+Wersja: 1.5.6<br />
+Data aktualizacji: 2026.01.26
 
 ## Instalacja - WorkShop (zalecane)
 Wchodzimy na adres workshop: **[Patwrobel Scenerios](https://steamcommunity.com/sharedfiles/filedetails/?id=3651816992)** i klikamy **Zasubskrybuj**<br />
@@ -196,7 +196,7 @@ Rozpoczynamy na peronie p.o. Warszawa Powiśle. Przejmujemy pociąg 91836 relacj
 ![Photo5](Photos/Misja%203/Photo5.jpg)
 
 ## Misja 4: Cargo: Kraków - Płock
-- Tabor: ET22 / EU07 / Dragon / Traxx
+- Tabor: ET22 / EU07 / Dragon / Traxx / Škoda CD163
 - Kanał startowy: 1
 - Trasa: Kraków Główny Towarowy - Płock Trzepowo przez:
     - Kozłów<br />
@@ -297,13 +297,13 @@ Naszym zadaniem na dziś jest dostarczyć próżny skład beczek ze stacji Krak�
    Jeżeli wybierzemy etap "Początek" wówczas rozpoczniemy scenariusz na peronie stacji Łódź Widzew. Naszym pierwszym zadaniem będzie uformowanie składu dla pociągu 97710 i wyprawienie go w peron, gdzie przejmie go od nas inny maszynista. Skład do manewrów jest zawsze odwrotny do wybranego przez gracza (jeżeli wybrał EN57 to manerwy są na ELFie i  odwrotnie). Jeżeli gracz wybierze podwójny EZT wówczas manewry są dłuższe z łączeniem składu w dwu-skład z dwóch róznych torów. Po wykonanych manewrach wracamy na bazę ŁKA i przygotowujemy swój skład (jeżeli podwójny to musimy połączyć z innego toru). Po wykonanych manewrach wyjeżdżamy na stację Łódź Widzew i jedziemy do stacji Łódź Fabryczna (bez stacji - jeszcze nie gotowa w SimRail). Po wyjechaniu ze stacji pojawiamy się na wjeździe do Widzewa jako pociąg 1935 zgodnie z wybraną wersją i prowadzimy skład do samej Warszawy. Po drodze czekają nas licne zdarzenia losowe, ruch kolizyjny, przepuszczanie szybszych pociągów czy rozkazy pisemne i awarie sygnalizacji. Wszystkie zdarzenia są losowe i każdy przejazd jest inny. Po dojechaniu do stacji Warszawa Wschodnia wykonujemy manewry w tory postojowe stacji i zakańczamy scenariusz wyłącząc skład i wychodząc na zewnątrz (UWAGA: musi być ciśnienie w przewodzie głównym poniżej 4.7)
 <br /><br />
 - <b>IC - InterCity (dodatkowe podstawienie z Olechowa):</b><br />
-   Dostępne składy: EU07 / EP07 / EP08 / TRAXX / DRAGON / ET22 / PENDOLINO<br />
+   Dostępne składy: EU07 / EP07 / EP08 / TRAXX / DRAGON / ET22 / PENDOLINO / Škoda CD163<br />
    Dostępna ilość wagonów dla lokomotyw: 9 / 7 / 5<br />
    Jeżeli wybierzemy etap "Początek" wówczas rozpoczynamy misję na pociągu służbowym 116002 relacji Łódź Olechów - Łódź Fabryczna. Skład będzie stał pod semaforem wyjazdowym ze stacji Łódź Olechów (p.o. Łódź Andrzejów Szosa). Przejeżdzamy krótki odcinek aż za stację Łódź Widzew i po chwili pojawiamy się na wjeździe do Łódź Widzew od strony Fabrycznej. Prowadzimy pociąg 1935 zatrzymując się na kilku postojach handlowych (Koluszki, Skierniewice, Żyrardów i Warszawa). Podczas podróży natrafimy na liczne zmiany torów, blokowanie ruchu przez pociągi osobowe czy towarowe, wyprzedzania na stacjach. Pojawią się rozkazy pisemne i problemy z sygnalizacją. Wszystkie zdarzenia są losowe i każdy przejazd jest inny. Po dojechaniu do stacji Warszawa Wschodnia zjeżdzamy na stację postojową Warszawa Grochów, gdzie nastąpi zakończenie scenariusza.
 <br /><br />
 - <b>PR - PolRegio (dodatkowa trasa z Łódź Dąbrowa):</b><br />
-   Dostępne składy IR (InterRegio): EU07 / EP07 / EP08 / ET22 / TRAXX / DRAGON / ELF / EN57 / EN71<br />
-   Dostępne składy R (Regio): EN57 / EN71 / ELF / EU07 / EP07 / EP08 / ET22 / TRAXX / DRAGON<br />
+   Dostępne składy IR (InterRegio): EU07 / EP07 / EP08 / ET22 / TRAXX / DRAGON / Škoda CD163 / ELF / EN57 / EN71<br />
+   Dostępne składy R (Regio): EN57 / EN71 / ELF / EU07 / EP07 / EP08 / ET22 / TRAXX / DRAGON / Škoda CD163<br />
    Dostępna ilość wagonów dla lokomotyw: 3 / 5 / 7 / 9<br />
    Jeżeli wybierzemy etap "Początek" wówczas prowadzimy skła z Łódzi Kaliskiej do Warszawy i rozpoczynamy misję na p.o. Łódź Dąbrowa (2 przystanki przed Łódź Widzew). Po dojechaniu do stacji Łódź Widzew prowadzimy skład normalnie do Warszawy. Po drodze mamy liczne losowe zdarzenia i krzyżowanie ruchu z innymi składami. Po dojechaniu do stacji Warszawa Wschodnia, gdy kierownik sprawdzi skład zjeżdzamy do stacji Warszawa Praga (wyjazd na linię 9 w kierunku Gdańska). Scenariusz kończy się tuż za stacją Warszawa Wschodnia.<br />
    UWAGA: jeżeli prowadzimy skład Regio i jedziemy linią podmiejską wówczas na Wschodniej przejeżdzamy z lini podmiejskiej na dalekobieżną i wjeżdzamy na peron 5 stacji Warszawa Wschodnia
