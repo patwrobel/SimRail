@@ -10,7 +10,7 @@ Data aktualizacji: 2026.11.06
 
 ## Wsparcie projektu
 Jeżeli podoba Ci się moja praca i chcesz więcej tego typu dodatków wesprzyj mnie.<br />
-**[Link do wsparcia na zrzutka.pl](https://zrzutka.pl/fe9j4t)**
+**[Link do dobrowolnego wsparcia projektu](https://zrzutka.pl/fe9j4t)**
 
 ## Instalacja - WorkShop (zalecane)
 Wchodzimy na adres workshop: **[Patwrobel Scenerios](https://steamcommunity.com/sharedfiles/filedetails/?id=3651816992)** i klikamy **Zasubskrybuj**<br />
