@@ -5,8 +5,12 @@ Każdy scenariusz zawiera liczny ruchem AI, wybór pogody i pory roku oraz godzi
 Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwala na wznawianie przerwanej gry.
 
 # Aktualna wersja
-Wersja: 1.6.26<br />
-Data aktualizacji: 2026.10.06
+Wersja: 1.7.0<br />
+Data aktualizacji: 2026.11.06
+
+## Wsparcie projektu
+Jeżeli podoba Ci się moja praca i chcesz więcej tego typu dodatków wesprzyj mnie.<br />
+**[Link do wsparcia na zrzutka.pl](https://zrzutka.pl/fe9j4t)**
 
 ## Instalacja - WorkShop (zalecane)
 Wchodzimy na adres workshop: **[Patwrobel Scenerios](https://steamcommunity.com/sharedfiles/filedetails/?id=3651816992)** i klikamy **Zasubskrybuj**<br />
@@ -42,14 +46,15 @@ Mamy do dyspozycji następujące opcje:
    - ręczny wybór dowolnej godziny
 
 ## Misje
-- [Misja 1: Strzemieszyce 3xEN57](#misja-1-strzemieszyce-3xen57)
-- [Misja 2: Łazy Cargo](#misja-2-łazy-cargo)
-- [Misja 3: Sprinter KM - RE1](#misja-3-sprinter-km---re1)
-- [Misja 4: Cargo: Kraków - Płock](#misja-4-cargo-kraków---płock)
-- [Misja 5: Osobowy: Łódź - Warszawa](#misja-5-osobowy-łódź---warszawa)
-- [Misja 6: Osobowy: Katowice - Łódź - Gdynia](#misja-6-osobowy-katowice---łódź---gdynia)
+- [Misja 1: Pas: Strzemieszyce 3xEN57](#misja-1-pas-strzemieszyce-3xen57)
+- [Misja 2: Tow: Łazy Cargo](#misja-2-tow-łazy-cargo)
+- [Misja 3: Pas: Sprinter KM - RE1](#misja-3-pas-sprinter-km---re1)
+- [Misja 4: Tow: Kraków - Płock](#misja-4-tow-kraków---płock)
+- [Misja 5: Pas: Łódź - Warszawa](#misja-5-pas-łódź---warszawa)
+- [Misja 6: Pas: Katowice - Łódź - Gdynia](#misja-6-pas-katowice---łódź---gdynia)
+- [Misja 7: Pas: Warszawa - Łódzki Węzeł Kolejowy](#misja-7-pas-warszawa---łódzki-węzeł-kolejowy)
 
-## Misja 1: Strzemieszyce 3xEN57
+## Misja 1: Pas: Strzemieszyce 3xEN57
 - Tabor: EN57
 - Kanał startowy: 2
 - Etapy:
@@ -84,7 +89,7 @@ Rozpoczynamy rozgrywkę na stacji Dąbrowa Górnicza Ząbkowice pod nastawnią D
    ![Photo3](Photos/Misja%201/Photo3.jpg)
    ![Photo4](Photos/Misja%201/Photo4.jpg)
 
-## Misja 2: Łazy Cargo
+## Misja 2: Tow: Łazy Cargo
 - Tabor: ET22 / EU07 / Dragon / Traxx
 - Kanał startowy: 2
 - Etapy:
@@ -111,7 +116,7 @@ Rozpoczynamy na peronie stacji Sosnowiec Główny - tuż po wyjściu z pociągu 
    ![Photo7](Photos/Misja%202/Photo7.jpg)
    ![Photo8](Photos/Misja%202/Photo8.jpg)
 
-## Misja 3: Sprinter KM - RE1
+## Misja 3: Pas: Sprinter KM - RE1
 - Tabor: 2xEN76 - Elf  /  2xEN57
 - Kanał startowy: 2
 - Opis:<br />
@@ -196,7 +201,7 @@ Rozpoczynamy na peronie p.o. Warszawa Powiśle. Przejmujemy pociąg 91836 relacj
 ![Photo4](Photos/Misja%203/Photo4.jpg)
 ![Photo5](Photos/Misja%203/Photo5.jpg)
 
-## Misja 4: Cargo: Kraków - Płock
+## Misja 4: Tow: Kraków - Płock
 - Tabor: ET22 / EU07 / Dragon / Traxx / Škoda CD163
 - Kanał startowy: 1
 - Trasa: Kraków Główny Towarowy - Płock Trzepowo przez:
@@ -241,8 +246,8 @@ Naszym zadaniem na dziś jest dostarczyć próżny skład beczek ze stacji Krak�
 ![Photo5](Photos/Misja%204/Photo5.jpg)
 ![Photo6](Photos/Misja%204/Photo6.jpg)
 
-## Misja 5: Osobowy: Łódź - Warszawa
-- Tabor: EN57 / EN71 / ELF / EU07 / EP07 / EP08 / ET22 / TRAXX / DRAGON / PENDOLINO
+## Misja 5: Pas: Łódź - Warszawa
+- Tabor: każdy dostępny w grze
 - Kanał startowy: 7
     - Manewry ŁKA (Widzew): 9
     - KM: 2
@@ -326,7 +331,7 @@ Naszym zadaniem na dziś jest dostarczyć próżny skład beczek ze stacji Krak�
 ![Photo4](Photos/Misja%205/Photo4.jpg)
 ![Photo5](Photos/Misja%205/Photo5.jpg)
 
-## Misja 6: Osobowy: Katowice - Łódź - Gdynia
+## Misja 6: Pas: Katowice - Łódź - Gdynia
 - Tabor: EU07 / EP07 / EP08 / TRAXX / DRAGON / ET22 / CD163
 - Kanał startowy: 2
 - <b>UWAGA - DLC:</b>
@@ -371,3 +376,96 @@ Naszym zadaniem na dziś jest dostarczyć próżny skład beczek ze stacji Krak�
 ![Photo3](Photos/Misja%206/Photo3.jpg)
 ![Photo4](Photos/Misja%206/Photo4.jpg)
 ![Photo5](Photos/Misja%206/Photo5.jpg)
+
+## Misja 7: Pas: Warszawa - Łódzki Węzeł Kolejowy
+- Tabor: każdy dostępny w grze
+- Kanały radiowe:
+    - Warszawa: 2
+    - Skierniewice: 2
+    - Łódź Widzew: 7
+    - Łódź Kaliska: 5
+    - Zgierz: 4
+- <b>UWAGA - DLC:</b>
+    - Warszawa - Grodzisk Maz. (bez wymaganego DLC)
+    - Łódź (wymagane DLC: Łódź 1 lub / oraz Łódź 2)
+    - Zgierz - Kutno (wymagane DLC: Łódź 3)
+- <b>Przewoźnicy:</b>
+    - IC - InterCity
+    - PR - PolRegio
+    - ŁKA - Łódzka Kolej Aglomeracyjna
+    - KM - Koleje Mazowieckie
+- <b>Typy pociągów:</b>
+    - Pośpieszne
+    - Przyśpieczone
+    - Osobowe
+    - Specjalne
+- <b>Obsłużone szlaki:</b>
+    - Warszawa - Skierniewice - Koluszki - Łódź Widzew
+    - Mikołajów - Koluszki - Gałkówek - Łódź Widzew
+    - Łódź Widzew - Łódź Marysin - Zgierz
+    - Łódź Widzew - Łódź Chojny - Łódź Kaliska - Zgierz - Kutno
+    - Zgierz - Łódź Kaliska - Pabianice - Łask
+- <b>Dostępne trasy:</b>
+    - <span style="color:blue; font-weight: bold">IC - InterCity:</span>
+      - Warszawa - Łódź Fabryczna
+      - Warszawa - Łódź - Kutno - Świnoujście
+      - Warszawa - Łódź - Sieradz - Wrocław
+      - Zakopane - Tomaszów Maz. - Łódź - Kutno - Bydgoszcz Główna
+      - Lublin Główny - Tomaszów Maz. - Łódź - Sieradz - Szczecin Główny
+   - <span style="color:blue; font-weight: bold">PR - PolRegio:</span>
+      - Warszawa - Łódź Fabryczna [InterRegio]
+      - Warszawa - Łódź Kaliska [InterRegio]
+      - Warszawa - Poznań Główny (Sieradz) [InterRegio]
+      - Warszawa - Łódź Fabryczna [RegioPlus]
+      - Warszawa - Łódź Kaliska [RegioPlus]
+      - Warszawa - Poznań Główny (Sieradz) [RegioPlus]
+      - Warszawa - Łódź Fabryczna
+      - Warszawa - Łódź Kaliska
+      - Skierniewice - Łódź Fabryczna
+      - Skierniewice - Łódź Kaliska
+      - Skierniewice - Wolsztyn [Specjalny]
+      - Kielce Główne - Tomaszów Maz. - Łódź Kaliska - Bydgoszcz Główna [InterRegio]
+      - Kielce Główne - Tomaszów Maz. - Łódź Kaliska - Poznań Główny [InterRegio]
+      - Kielce Główne - Tomaszów Maz. - Łódź Kaliska
+      - Łódź Kaliska - Bydgoszcz Główna [InterRegio]
+      - Łódź Kaliska - Bydgoszcz Główna
+      - Łódź Kaliska - Poznań Główny [InterRegio]
+      - Łódź Kaliska - Poznań Główny
+   - <span style="color:blue; font-weight: bold">ŁKA - Łódzka Kolej Aglomeracyjna:</span>
+      - Warszawa - Łódź Fabryczna [Sprinter]
+      - Warszawa - Łódź Fabryczna [Przyśp.]
+      - Warszawa - Łódź Fabryczna
+      - Skierniewice - Kutno [Przyśp.]
+      - Skierniewice - Łódź Fabryczna
+      - Skierniewice - Łódź Kaliska
+      - Skierniewice - Zgierz
+      - Skierniewice - Kutno
+      - Skierniewice - Łask
+      - Skierniewice - Sieradz
+      - Tomaszów Mazowiecki - Łódź Fabryczna
+      - Tomaszów Mazowiecki - Zgierz
+      - Tomaszów Mazowiecki - Kutno
+      - Tomaszów Mazowiecki - Sieradz
+      - Łódź Widzew - Zgierz
+      - Łódź Widzew - Ozorków
+      - Łódź Widzew - Kutno
+      - Łódź Widzew - Łask
+      - Łódź Widzew - Sieradz
+      - Łódź Widzew - Częstochowa
+      - Zgierz - Pabianice
+      - Zgierz - Łask
+      - Zgierz - Sieradz
+   - <span style="color:blue; font-weight: bold">KM - Koleje Mazowieckie:</span>
+      - Warszawa - Skierniewice [Sprinter]
+      - Warszawa - Skierniewice [RE]
+      - Warszawa - Skierniewice
+      - Warszawa - Żyrardów
+      - Warszawa - Grodzisk Mazowiecki
+- <span style="color:red; font-weight: bold">UWAGA:</span><br />
+   Trasa w kierunku Sieradza kończy się tuż przed st. Łask. Dalszy odcinek zostanie dodany w późniejszym terminie.
+- Zdjęcia:<br />
+![Photo1](Photos/Misja%207/Photo1.png)
+![Photo2](Photos/Misja%207/Photo2.png)
+![Photo3](Photos/Misja%207/Photo3.jpg)
+![Photo4](Photos/Misja%207/Photo4.jpg)
+![Photo5](Photos/Misja%207/Photo5.jpg)
