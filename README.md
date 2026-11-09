@@ -5,8 +5,8 @@ Każdy scenariusz zawiera liczny ruchem AI, wybór pogody i pory roku oraz godzi
 Dodatkowo każdą misję możemy rozpocząć od wybranego checkpoint'u co pozwala na wznawianie przerwanej gry.
 
 # Aktualna wersja
-Wersja: 1.7.1<br />
-Data aktualizacji: 2026.11.06
+Wersja: 1.7.2<br />
+Data aktualizacji: 2026.11.09
 
 ## Wsparcie projektu
 Jeżeli podoba Ci się moja praca i chcesz więcej tego typu dodatków wesprzyj mnie.<br />
